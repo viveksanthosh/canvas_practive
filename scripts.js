@@ -7,3 +7,7 @@ Canvas.lineTo(200, 200);
 Canvas.lineTo(200, 100);
 Canvas.lineTo(100, 100);
 Canvas.stroke();
+
+Canvas.fillStyle = 'pink';
+Canvas.fillRect(400, 400, 100, 100);
+Canvas.stroke();
